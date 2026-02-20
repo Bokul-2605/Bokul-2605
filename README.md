@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg" width="85%" />
+  <img src="https://drive.google.com/file/d/1WD_KXKeOXglEL0amtc5dfNUyVqYNpktl/view?usp=sharing" width="85%" />
 </p>
 
 <h1 align="center">Bokul</h1>
