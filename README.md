@@ -1,71 +1,76 @@
-<!-- PROFILE BANNER -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg" alt="Bokul Banner" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Bokul</h1>
-<h3 align="center">🎓 B.Tech Student | 💻 Web & Python Developer | 🎨 Creative Thinker</h3>
-
----
-
-## 👨‍💻 About Me
-
-I enjoy turning imagination into structured, working software.  
-As a B.Tech student, I am continuously learning, experimenting, and building projects that combine creativity with logical system design.
-
-I believe creativity belongs not only in design — but also in architecture and problem-solving.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,nodejs" />
-</p>
-
-### 🗄 Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- ======================= -->
+<!--        BANNER           -->
+<!-- ======================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bokul-2605&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://drive.google.com/uc?export=view&id=1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg" width="100%" />
 </p>
+
+<br>
+
+<h1 align="center">
+  Bokul
+</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bokul-2605&theme=tokyonight&hide_border=true" height="160" />
+  <em>Turning imagination into structured systems.</em>
 </p>
 
 ---
 
-## 🧠 What Makes Me Different
+## 🧠 Who Am I?
 
-- Strong imagination with structured execution  
-- Creative thinking in system design  
-- Focused on clean and maintainable code  
-- Always improving fundamentals  
+I am a B.Tech student who sees code as architecture.
+
+Some people write programs.  
+I prefer designing systems.
+
+Imagination is my starting point.  
+Structure is my discipline.  
+Execution is my craft.
 
 ---
 
-## 📫 Connect With Me
+## ⚙️ My Creative Toolkit
 
-<p>
-  <a href="mailto:bokulbanerjeexcrollno@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-  </a>
+I focus less on tools,  
+and more on how they connect.
+
+---
+
+## 🧩 Current Obsession
+
+- Designing APIs that feel clean and logical  
+- Building interfaces that feel intentional  
+- Improving system thinking  
+- Writing code that is readable six months later  
+
+---
+
+## 📊 Digital Footprint
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true&title_color=7F5AF0&icon_color=2CB67D&text_color=94A1B2&bg_color=0D1117" height="170" />
 </p>
 
 ---
 
-⭐️ Profile: https://github.com/Bokul-2605
+## 🎨 Philosophy
+
+Creativity is not decoration.  
+It is problem solving.
+
+Good software is not loud.  
+It is intentional.
+
+---
+
+## 📫 Connect
+
+📧 bokulbanerjeexcrollno@gmail.com  
+
+---
+
+<p align="center">
+  <sub>Built with imagination.</sub>
+</p>
