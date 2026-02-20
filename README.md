@@ -52,7 +52,7 @@
 </picture>
 
 ###
-# Hi 👋 I'm Bokul
+
 
 🎓 B.Tech Student | 💻 Developer | 🎨 Creative Thinker  
 
