@@ -3,7 +3,7 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="85%" />
+  <img src="https://drive.google.com/file/d/1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg/view?usp=sharing" width="85%" />
 </p>
 
 <br>
