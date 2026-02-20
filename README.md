@@ -5,7 +5,7 @@
 <p align="center">
   <img 
     src="https://drive.google.com/uc?export=view&id=1WD_KXKeOXglEL0amtc5dfNUyVqYNpktl" 
-    width="140" 
+    width="200" 
     style="border-radius: 50%;" 
   />
 </p>
