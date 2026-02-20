@@ -3,14 +3,18 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg" width="100%" />
+  <img src="YOUR_BANNER_LINK" width="85%" />
 </p>
 
 <br>
 
-<h1 align="center">
-  Bokul
-</h1>
+<h1 align="center">Bokul</h1>
+
+<p align="center">
+  <em>I see software as architecture drawn in logic.</em>
+</p>
+
+<br>
 
 <p align="center">
   <em>Turning imagination into structured systems.</em>
@@ -50,7 +54,10 @@ and more on how they connect.
 ## 📊 Digital Footprint
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true&title_color=7F5AF0&icon_color=2CB67D&text_color=94A1B2&bg_color=0D1117" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=22D3EE" 
+    height="170"
+  />
 </p>
 
 ---
