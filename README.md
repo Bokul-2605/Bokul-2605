@@ -10,7 +10,7 @@
   />
 </p>
 
-<h1 align="center">Bokul</h1>
+<h1 align="center">Hey There 👋, I'm Bokul;</h1>
 
 <p align="center">
   <em>I see software as architecture drawn in logic.</em>
