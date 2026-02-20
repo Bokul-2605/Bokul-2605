@@ -119,7 +119,7 @@ it is about designing ideas carefully and turning them into structured solutions
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com  
+- 📧 Email: bokulbanerjeexcrollno@gmail.com  
 - 💼 LinkedIn: (Add your link here)
 
 ---
