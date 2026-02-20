@@ -46,7 +46,7 @@ and more on how they connect.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=22D3EE" 
+    src="https://github-readme-stats.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" 
     height="170"
   />
 </p>
