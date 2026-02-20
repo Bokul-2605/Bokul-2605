@@ -46,11 +46,10 @@ and more on how they connect.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bokul-2605&show_icons=true&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=Bokul-2605&hide_border=true" 
     height="170"
   />
-</p>s
-
+</p>
 ---
 
 ## 🎨 Philosophy
