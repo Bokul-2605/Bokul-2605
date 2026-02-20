@@ -3,10 +3,8 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg/view?usp=sharing" width="85%" />
+  <img src="https://drive.google.com/uc?export=view&id=1r5v1sDn9xOxbpUSBg-EAPxyiVf0YEtIg" width="85%" />
 </p>
-
-<br>
 
 <h1 align="center">Bokul</h1>
 
@@ -16,22 +14,15 @@
 
 <br>
 
-<p align="center">
-  <em>Turning imagination into structured systems.</em>
-</p>
-
----
-
 ## 🧠 Who Am I?
 
-I am a B.Tech student who sees code as architecture.
+I am a B.Tech student who approaches code with structure and intention.
 
-Some people write programs.  
-I prefer designing systems.
+Before I build, I imagine.
+Before I write, I design.
 
-Imagination is my starting point.  
-Structure is my discipline.  
-Execution is my craft.
+Creativity is not decoration.
+It is disciplined problem solving.
 
 ---
 
